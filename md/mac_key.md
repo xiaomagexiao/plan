@@ -1,4 +1,4 @@
-### Mac按键图表
+### Mac按键图标
 
 ```bash
 ⌘——Command ()
