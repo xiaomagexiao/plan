@@ -1,7 +1,7 @@
 git pull
 git add *
 message=""
-if [ $# -gt 1 ]; then
+if [ $# -gt 0 ]; then
     message="$1"
 else
     message="提交项目"
