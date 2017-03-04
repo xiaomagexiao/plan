@@ -9,4 +9,5 @@
 ### 常用命令
 - [bash](md/bash.md)
 - [mac key](md/mac_key.md)
+- [vim](md/vim.md)
 
