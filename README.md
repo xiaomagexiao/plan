@@ -11,3 +11,6 @@
 - [mac key](md/mac_key.md)
 - [vim](md/vim.md)
 
+### 调试
+- [debug](md/debug.md)
+
